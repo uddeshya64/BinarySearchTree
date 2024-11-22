@@ -22,5 +22,5 @@ public class BSTConstants {
     public static final String EXIT_MESSAGE = "Exiting program.";
     public static final String INCREMENT_INPUT = "Enter the value to increment: ";
     public static final String UPDATED_OUTPUT = "\nUpdated Binary Search Tree:";
-	public static final String INVALID_MENU_INPUT = "Invalid choice. Please enter 1 or 2.";
+    public static final String INVALID_MENU_INPUT = "Invalid choice. Please enter 1 or 2.";
 }
